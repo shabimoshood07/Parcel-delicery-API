@@ -1,6 +1,6 @@
 {
-    "version": 2,
-    "name": "sendIt",
+    "version":1.0,
+    "name": "parcel-delivery",
     "builds": [
         {
             "src": "app.js",
