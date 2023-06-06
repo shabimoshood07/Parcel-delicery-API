@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "Parcel delivery",
+    "name": "ParcelDelivery",
     "builds": [
         {
             "src": "app.js",
